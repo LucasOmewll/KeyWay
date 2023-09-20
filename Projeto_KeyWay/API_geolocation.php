@@ -13,7 +13,7 @@
     $url_servico = "https://geocode.search.hereapi.com/v1/geocode";
 
     //Chave da API disponibilizada pela Here
-    $api_key = "VsCHi888CzS7iFKvIAK6KVv7OesCrZZPV2BlthslD6c";
+    $api_key = " ";
 
     //Parâmetros a serem adicionados
     $params = array(

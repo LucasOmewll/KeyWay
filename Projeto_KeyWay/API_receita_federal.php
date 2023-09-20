@@ -5,7 +5,7 @@
    $url_servico = "https://www.sintegraws.com.br/api/v1/execute-api.php";
 
    //Nosso token conforme disponibilizado pelo site do Sintegra WS
-   $token = "32FAF0C4-6944-46A5-B350-32EEBD25B516";
+   $token = "";
 
    //Parâmetros a serem adicionados
    $params = array(
